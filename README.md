@@ -1,1 +1,1 @@
-# opencode-extension-mechanism
+# 此仓库用于蓝区开发
